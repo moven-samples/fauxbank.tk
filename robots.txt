@@ -1,0 +1,14 @@
+---
+# Remember to set production_url in your _config.yml file!
+title: Robots.txt
+noindex: true
+layout: none
+---
+#
+# robots.txt for {{site.production_url}}
+#
+# do NOT list this in search engines!
+#
+
+User-agent: *
+Disallow: /
